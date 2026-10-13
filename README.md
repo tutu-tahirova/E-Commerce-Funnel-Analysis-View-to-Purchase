@@ -12,7 +12,7 @@ Məlumatların dürüstlüyünü təmin etmək və eyni istifadəçinin təkrar 
 
 ---
 
-## 📊 2. Əsas Xülasə Metrikləri
+##  2. Əsas Xülasə Metrikləri
 - **Event Paylanması:** Baxışlar əsas qarşılıqlı əlaqələrin böyük əksəriyyətini təşkil edir (~85.1%), ardınca səbətə əlavələr (~8.7%) və alışlar (~6.2%).
 - **Aylıq Artım:** Ümumi konversiya dərəcəsi Yanvar ayı ilə müqayisədə Fevral ayında **0.8 faiz bəndi (percentage points - pp)** artıb.
 - **Ən Yüksək Konversiya Verən Kateqoriya:** **Accessories (Aksesuarlar)** kateqoriyası ən yüksək ümumi konversiya dərəcəsinə (~12.1%) malikdir.
